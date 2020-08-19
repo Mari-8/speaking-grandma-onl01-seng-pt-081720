@@ -15,7 +15,7 @@
 
 
 
-def speak_to_grandma("words")
+def speak_to_grandma
   if "words" == "words".upcase
     return"NO, NOT SINCE 1938!."
   elsif "words" == "I LOVE YOU GRANDMA!"
@@ -27,4 +27,4 @@ end
   
 
 
-speak_to_grandma("HEY GRANDMA!")
+speak_to_grandma
